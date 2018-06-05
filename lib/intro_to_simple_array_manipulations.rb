@@ -55,7 +55,10 @@ def using_delete(arr,ele)
   
 end 
 
-
+def using_delete(arr, int)
+  arr.delete(int)
+  
+end 
 
 
 

@@ -39,3 +39,34 @@ def using_insert(arr, ele)
   arr.insert(4,ele)
   
 end 
+
+def using_uniq(arr)
+  arr.uniq()
+  
+end 
+
+def using_flatten(arr)
+  arr.flatten()
+  
+end 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

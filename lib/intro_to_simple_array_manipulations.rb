@@ -12,6 +12,6 @@ def using_pop(arr)
   arr.pop()
 end 
 
-def pop_with_args(num)
-  arr.pop(num)
+def pop_with_args(arr,num)
+  num.times.arr.pop()
 end 
